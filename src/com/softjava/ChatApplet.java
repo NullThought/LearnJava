@@ -1,4 +1,4 @@
-package com.soft1851.study;
+package com.softjava;
 
 import javax.swing.*;
 import java.applet.Applet;
@@ -7,7 +7,6 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-import java.awt.peer.MouseInfoPeer;
 
 public class ChatApplet extends Applet implements MouseListener, Runnable {
 private int x,y;

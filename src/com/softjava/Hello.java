@@ -1,4 +1,4 @@
-package com.soft1851.study;
+package com.softjava;
 
 public class Hello {
 
