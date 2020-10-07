@@ -1,4 +1,4 @@
-package com.softjava;
+package Example;
 
 public class Example2_1 {
     public static void main(String[] args) {
